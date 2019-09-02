@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bbda2e8-c8c9-430a-9bdc-6ab217109604" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/h-geo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.config.sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cahiers-de-texte/Entry.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cours/Link.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cours/TableOfContent.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Footer.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Grid.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Loading.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Nav.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/SideNav.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_error.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/[slug].svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cours/[slug].svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cours/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cours/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/entries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/niveaux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/sections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/homesplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Oe2rbHpLqwIsxyXglje3ierwNA" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\components" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\components\ui" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\stores" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\routes\cahiers-de-texte" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\static" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\components\cours" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\components\ui" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\h-geo\src\routes\database\categories" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.export">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="export" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="export" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.export" />
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bbda2e8-c8c9-430a-9bdc-6ab217109604" name="Default Changelist" comment="" />
+      <created>1563023686587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563023686587</updated>
+      <workItem from="1563023688059" duration="60885000" />
+      <workItem from="1563803029451" duration="599000" />
+      <workItem from="1564058555520" duration="599000" />
+      <workItem from="1564060669526" duration="5007000" />
+      <workItem from="1564134773995" duration="58337000" />
+      <workItem from="1564323948694" duration="2168000" />
+      <workItem from="1564393761924" duration="4617000" />
+      <workItem from="1564736816767" duration="895000" />
+      <workItem from="1565012997320" duration="998000" />
+      <workItem from="1565532467175" duration="8438000" />
+      <workItem from="1565875255716" duration="11189000" />
+      <workItem from="1566376537079" duration="1309000" />
+      <workItem from="1567165321371" duration="4624000" />
+      <workItem from="1567358780459" duration="1566000" />
+      <workItem from="1567433762305" duration="1824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../starship/node_modules/@apollographql/apollo-tools/node_modules/apollo-env/src/fetch/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-env/src/fetch/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/@apollographql/apollo-tools/node_modules/apollo-env/src/fetch/global.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-env/src/fetch/global.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-server-testing/node_modules/apollo-server-env/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-server-env/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
